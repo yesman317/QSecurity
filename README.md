@@ -1,11 +1,10 @@
 QSecurity
 =========
 
-面临flash的各种xss，多次批量修复总会疲劳，故尽可能的收归一下现有的漏洞！
+面临flash的各种xss，多次批量修复总会疲劳，故尽可能的收归一下现有的漏洞，然后统一管理！
 
-Example.
 
-package 
+		package
 		{
 			public class Main extends QSecurity 
 			{
