@@ -7,7 +7,9 @@ package com.qzone.sec
 	import flash.system.Security;
 	import flash.utils.clearTimeout;
 	import flash.utils.setTimeout;
-
+	/*
+	* seanzhu neilcui lanceluo
+	*/
 	public class QSecChecker
 	{
 		//flashVars 
