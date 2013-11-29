@@ -3,6 +3,9 @@ QSecurity
 
 面临flash的各种xss，多次批量修复总会疲劳，故尽可能的收归一下现有的漏洞，然后统一管理！
 
+感谢yunishi,neilcui,lanceluo,shinehuang一干人等的耐心指导和提出的宝贵意见！
+
+
 
 		package
 		{
