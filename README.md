@@ -8,7 +8,6 @@ QSecurity专注做初始化工作，而真正的安全过滤来自服务器上�
 感谢yunishi,neilcui,lanceluo,shinehuang一干人等的耐心指导和提出的宝贵意见！
 
 
-
 		package
 		{
 			public class Main extends QSecurity 
